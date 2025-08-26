@@ -4,7 +4,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Design, Delight, and Depth. 3D! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 게임 클라이언트 개발자 박수현 입니다. <br/>
-        <br/> Hello! I'm Suhyeon Park, a Client Developer who is passionate about three key elements in <b>gaming: Design(미), Delight(재미), and Depth(의미).</b> <br/> My main skills are using <b>C# and Unity</b> to bring these ideas to life. Keeping up with the age of generative AI, I also <b>build interactive websites with Python.</b> I believe the best user experiences come from solid, invisible technology, and I'm dedicated to making sure that foundation is perfect on any platform. </div>
+        <br/> Hello! I'm Suhyeon Park, a Client Developer who is passionate about three key elements in <b>gaming: Design(미), Delight(재미), and Depth(의미).</b> My main skills are using <b>C# and Unity</b> to bring these ideas to life. Keeping up with the age of generative AI, I also <b>build interactive websites with Python.</b> I believe the best user experiences come from solid, invisible technology, and I'm dedicated to making sure that foundation is perfect on any platform. </div>
     </div>
     <br/>
     <br/>
