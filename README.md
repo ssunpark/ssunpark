@@ -1,7 +1,7 @@
 <div align="center">
     <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Hesther'sPortfolio </h3>
         <h5 style="border-bottom: 1px solid #d8dee4; color: #282d33;">⬇️Click here⬇️</h5>
-      <a href="https://github.com/ssunpark/ssunpark/blob/main/%EB%B0%95%EC%88%98%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf?raw=true" download>
+      <a href="https://github.com/ssunpark/ssunpark/blob/main/SuhyeonPark.pdf?raw=true" download>
     <img src="https://img.shields.io/badge/Download-Portfolio.pdf-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
   </a>
     <div align="center"> </div> 
@@ -66,10 +66,6 @@
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
         </a>
     </div>
-            <span style="font-weight: 700; vertical-align: middle;">Hesther's Portfolio: </span>
-      <a href="https://github.com/ssunpark/ssunpark/blob/main/%EB%B0%95%EC%88%98%ED%98%84_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf?raw=true" download>
-    <img src="https://img.shields.io/badge/Download-Portfolio.pdf-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-  </a>
     <div align="center"> </div> 
 </div>
     <br/>
