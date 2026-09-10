@@ -73,32 +73,23 @@ I believe the best gaming experiences are powered by flawless, 'invisible techno
 
 <div align="center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
-<div align="center" style="font-size: 15px;"> 
+<div style="font-size: 15px;">
 <span style="font-weight: 700; vertical-align: middle;">Hesther's Velog: </span>
-<a href="https://velog.io/@halsey/posts"> 
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"> 
+<a href="https://velog.io/@halsey/posts">
+<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white">
 </a>
 <br>
 <span style="font-weight: 700; vertical-align: middle;">ULP; Unstop Life Track: </span>
-<a href="https://hesther-ssu.tistory.com/"> 
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"> 
+<a href="https://hesther-ssu.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
 </a>
 <br>
 <span style="font-weight: 700; vertical-align: middle;">Hesther's Gmail: </span>
-<a href="mailto:dduks0312@gmail.com"> 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+<a href="mailto:dduks0312@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 </div>
-<div align="center"> </div> 
 </div>
 
 <br/>
 <br/>
-
-<div align="center"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=ssunpark&show_icons=true&theme=transparent&cache_seconds=3600" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssunpark&layout=compact&theme=transparent&cache_seconds=3600" /> 
-</div> 
-</div>
